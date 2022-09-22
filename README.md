@@ -9,7 +9,7 @@ This document contains sections for:
 ⦁ Unique Selling Points of the Application
 ⦁ Conclusions
 
-The code for this project is hosted at https://github.com/rvinit021/Project-Phase-1-.git
+The code for this project is hosted at https://github.com/rvinit021/Project-1.git
 The project is developed by Binit Rai .
 
 Sprints planning and Task completion
